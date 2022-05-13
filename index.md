@@ -13,7 +13,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td style="background-color: yellow">Alfreds Futterkiste</td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
