@@ -85,15 +85,12 @@ for i = 1:length(People)
 end
 
 %% Sort
-Points_Names         = sortrows(Points,P.Name);
+Points_Names = sortrows(Points,P.Name);
 Points_PointsAquired = sortrows(Points,[P.Aquired,P.TPP],'descend');
-Points_PointsTPP     = sortrows(Points,[P.TPP,P.Aquired],'descend');
+Points_PointsTPP = sortrows(Points,[P.TPP,P.Aquired],'descend');
 
-Points_Names         = Points_Names(:,[P.Name , P.Aquired ,P.TPP]);
-Points_PointsAquired = Points_PointsAquired(:,[P.Name , P.Aquired ,P.TPP]);
-Points_PointsTPP     = Points_PointsTPP(:,[P.Name , P.Aquired ,P.TPP]);
 %% Save Data
-save(['Results' filesep 'ScoringResults.mat'],'Points','Points_Names','Points_PointsAquired','Points_PointsTPP','ChoiceMatrix')
+save(['Results' filesep 'ScoringResults.mat'],'Points','ChoiceMatrix')
 
 
 %% Sorting Function

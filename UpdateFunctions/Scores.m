@@ -8,43 +8,43 @@ SCORES(:,:,1) = ...
 
 %% Series 2 Wild/Blues
 SCORES(:,:,2) = ...
-   [0 6 5 2 2 NaN NaN   % Wild
-    4 2 1 5 5 NaN NaN]; % Blues
+   [0 6 5 2 2 1 NaN   % Wild
+    4 2 1 5 5 5 NaN]; % Blues
 
 %% Series 3 Flames/Stars
 SCORES(:,:,3) = ...
-   [1 0 2 4 NaN NaN NaN   % Flames
-    0 2 4 1 NaN NaN NaN]; % Stars
+   [1 0 2 4 3 NaN NaN   % Flames
+    0 2 4 1 1 NaN NaN]; % Stars
 
 %% Series 4 Oilers/Kings
 SCORES(:,:,4) = ...
-   [3 6 8 0 4 NaN NaN   % Oilers
-    4 0 2 4 5 NaN NaN]; % Kings
+   [3 6 8 0 4 4 NaN   % Oilers
+    4 0 2 4 5 2 NaN]; % Kings
 
 %% Series 5 Panthers/Caps
 SCORES(:,:,5) = ...
-   [2 5 1 3 NaN NaN NaN   % Panthers
-    4 1 6 2 NaN NaN NaN]; % Caps
+   [2 5 1 3 5 NaN NaN   % Panthers
+    4 1 6 2 3 NaN NaN]; % Caps
 
 %% Series 6 Leafs/Lightning
 SCORES(:,:,6) = ...
-   [5 3 5 3 4 NaN NaN   % Leafs
-    0 5 2 7 3 NaN NaN]; % Lightning
+   [5 3 5 3 4 3 NaN   % Leafs
+    0 5 2 7 3 4 NaN]; % Lightning
 
 %% Series 7 Canes/Bruins
 SCORES(:,:,7) = ...
-   [5 5 2 2 5 NaN NaN   % Canes
-    1 2 4 5 1 NaN NaN]; % Bruins
+   [5 5 2 2 5 2 NaN   % Canes
+    1 2 4 5 1 5 NaN]; % Bruins
 
 %% Series 8 Rangers/Penguins
 SCORES(:,:,8) = ...
-   [3 5 4 2 NaN NaN NaN 
-    4 2 7 7 NaN NaN NaN]; % Penguins
+   [3 5 4 2 5 NaN NaN 
+    4 2 7 7 3 NaN NaN]; % Penguins
 
-%% Series 9 /
+%% Series 9 Avs/
 SCORES(:,:,9) = ...
    [NaN NaN NaN NaN NaN NaN NaN   % Avs
-    NaN NaN NaN NaN NaN NaN NaN];
+    NaN NaN NaN NaN NaN NaN NaN]; % Blues
 
 %% Series 10 /
 SCORES(:,:,10) = ...

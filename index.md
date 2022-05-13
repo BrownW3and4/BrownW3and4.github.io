@@ -7,9 +7,9 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
 ### Bracket
 ![MasterBracket](Results/UpdatedBrackets/MasterBracket.png)
 
+
 ### Round 1  
 
-< !╌ Avs Preds╌>
 <table>
   <tr>
     <th> </th>
@@ -20,6 +20,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 5</th>
     <th>Game 6</th>
     <th>Game 7</th>
+    <th>Total Wins</th>
   </tr>
   <tr>
     <td style="background-color: green">Avalanche</td>
@@ -30,6 +31,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Predators</td>
@@ -40,10 +42,11 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>0</td>
   </tr>
 </table>
 
-< !╌ Wild Blues╌>
+
 <table>
   <tr>
     <th> </th>
@@ -54,16 +57,18 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 5</th>
     <th>Game 6</th>
     <th>Game 7</th>
+    <th>Total Wins</th>
   </tr>
   <tr>
     <td>Wild</td>
-    <td >0</td>
+    <td>0</td>
     <td style="background-color: green">6</td>
     <td style="background-color: green">5</td>
-    <td >2</td>
-    <td> 2</td>
-    <td> 1</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
     <td> </td>
+    <td>2</td>
   </tr>
   <tr>
     <td style="background-color: green">Blues</td>
@@ -74,11 +79,235 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td style="background-color: green">5</td>
     <td style="background-color: green">5</td>
     <td> </td>
+    <td>4</td>
   </tr>
 </table>
 
-< !╌ Flames Stars╌>
-< !-- 
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+    <th>Total Wins</th>
+  </tr>
+  <tr>
+    <td>Flames</td>
+    <td style="background-color: green">1</td>
+    <td>0</td>
+    <td>2</td>
+    <td style="background-color: green">4</td>
+    <td style="background-color: green">3</td>
+    <td> </td>
+    <td> </td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Stars</td>
+    <td>0</td>
+    <td style="background-color: green">2</td>
+    <td style="background-color: green">4</td>
+    <td>1</td>
+    <td>1</td>
+    <td> </td>
+    <td> </td>
+    <td>2</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+    <th>Total Wins</th>
+  </tr>
+  <tr>
+    <td>Oilers</td>
+    <td>3</td>
+    <td style="background-color: green">6</td>
+    <td style="background-color: green">8</td>
+    <td>0</td>
+    <td>4</td>
+    <td style="background-color: green">4</td>
+    <td> </td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Kings</td>
+    <td style="background-color: green">4</td>
+    <td>0</td>
+    <td>2</td>
+    <td style="background-color: green">4</td>
+    <td style="background-color: green">5</td>
+    <td>2</td>
+    <td> </td>
+    <td>3</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+    <th>Total Wins</th>
+  </tr>
+  <tr>
+    <td>Panthers</td>
+    <td>2</td>
+    <td style="background-color: green">5</td>
+    <td>1</td>
+    <td style="background-color: green">3</td>
+    <td style="background-color: green">5</td>
+    <td> </td>
+    <td> </td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Capitals</td>
+    <td style="background-color: green">4</td>
+    <td>1</td>
+    <td style="background-color: green">6</td>
+    <td>2</td>
+    <td>3</td>
+    <td> </td>
+    <td> </td>
+    <td>2</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+    <th>Total Wins</th>
+  </tr>
+  <tr>
+    <td>Maple Leafs</td>
+    <td style="background-color: green">5</td>
+    <td>3</td>
+    <td style="background-color: green">5</td>
+    <td>3</td>
+    <td style="background-color: green">4</td>
+    <td>3</td>
+    <td> </td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Lightning</td>
+    <td>0</td>
+    <td style="background-color: green">5</td>
+    <td>2</td>
+    <td style="background-color: green">7</td>
+    <td>3</td>
+    <td style="background-color: green">4</td>
+    <td> </td>
+    <td>3</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+    <th>Total Wins</th>
+  </tr>
+  <tr>
+    <td>Hurricanes</td>
+    <td style="background-color: green">5</td>
+    <td style="background-color: green">5</td>
+    <td>2</td>
+    <td>2</td>
+    <td style="background-color: green">5</td>
+    <td>2</td>
+    <td> </td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Bruins</td>
+    <td>1</td>
+    <td>2</td>
+    <td style="background-color: green">4</td>
+    <td style="background-color: green">5</td>
+    <td>1</td>
+    <td style="background-color: green">5</td>
+    <td> </td>
+    <td>3</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+    <th>Total Wins</th>
+  </tr>
+  <tr>
+    <td>Rangers</td>
+    <td>3</td>
+    <td style="background-color: green">5</td>
+    <td>4</td>
+    <td>2</td>
+    <td style="background-color: green">5</td>
+    <td> </td>
+    <td> </td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Penguins</td>
+    <td style="background-color: green">4</td>
+    <td>2</td>
+    <td style="background-color: green">7</td>
+    <td style="background-color: green">7</td>
+    <td>3</td>
+    <td> </td>
+    <td> </td>
+    <td>3</td>
+  </tr>
+</table>
+
+
+### Round 2  
+
 <table>
   <tr>
     <th> </th>
@@ -92,215 +321,528 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Avalanche</td>
-    <td>7</td>
-    <td style="background-color: green">2</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">5</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
   </tr>
   <tr>
-    <td>Predators</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3</td>
-    <td>3</td>
+    <td>Blues</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
   </tr>
 </table>
--->
-< !╌ Oilers Kings╌>
-< !╌
-<table>
-  <tr>
-    <th> </th>
-    <th>Game 1</th>
-    <th>Game 2</th>
-    <th>Game 3</th>
-    <th>Game 4</th>
-    <th>Game 5</th>
-    <th>Game 6</th>
-    <th>Game 7</th>
-  </tr>
-  <tr>
-    <td style="background-color: green">Avalanche</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">2</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">5</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Predators</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3</td>
-    <td>3</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-</table>
--->
-< !╌ Panthers Caps╌>
-< !╌
-<table>
-  <tr>
-    <th> </th>
-    <th>Game 1</th>
-    <th>Game 2</th>
-    <th>Game 3</th>
-    <th>Game 4</th>
-    <th>Game 5</th>
-    <th>Game 6</th>
-    <th>Game 7</th>
-  </tr>
-  <tr>
-    <td style="background-color: green">Avalanche</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">2</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">5</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Predators</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3</td>
-    <td>3</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-</table>
--->
-< !╌ Maple Leafs Bolts╌>
-< !╌
-<table>
-  <tr>
-    <th> </th>
-    <th>Game 1</th>
-    <th>Game 2</th>
-    <th>Game 3</th>
-    <th>Game 4</th>
-    <th>Game 5</th>
-    <th>Game 6</th>
-    <th>Game 7</th>
-  </tr>
-  <tr>
-    <td style="background-color: green">Avalanche</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">2</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">5</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Predators</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3</td>
-    <td>3</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-</table>
--->
-< !╌ Canes Bruins╌>
-< !╌
-<table>
-  <tr>
-    <th> </th>
-    <th>Game 1</th>
-    <th>Game 2</th>
-    <th>Game 3</th>
-    <th>Game 4</th>
-    <th>Game 5</th>
-    <th>Game 6</th>
-    <th>Game 7</th>
-  </tr>
-  <tr>
-    <td style="background-color: green">Avalanche</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">2</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">5</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Predators</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3</td>
-    <td>3</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-</table>
--->
-< !╌ Rangers Penguins╌>
-< !╌
-<table>
-  <tr>
-    <th> </th>
-    <th>Game 1</th>
-    <th>Game 2</th>
-    <th>Game 3</th>
-    <th>Game 4</th>
-    <th>Game 5</th>
-    <th>Game 6</th>
-    <th>Game 7</th>
-  </tr>
-  <tr>
-    <td style="background-color: green">Avalanche</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">2</td>
-    <td style="background-color: green">7</td>
-    <td style="background-color: green">5</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Predators</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3</td>
-    <td>3</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-</table>
--->
 
 
-### Round 2
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
 
-### Conference Finals
 
-### Stanley Cup Finals
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
+
+### Conference Finals  
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
+
+### Stanley Cup Finals  
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
 
 ## Bracket Standings
+How the scoring works
+* 10 :Correct Round 1 Winners
+* 25 :Correct Round 2 Winners
+* 50 :Correct Conference Finals Champions
+* 100:Correct Stanley Cup Champion
+
+TPP: Total Points Possible
 ### Sorted by Name
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Points</th>
+    <th>TTP</th>
+  </tr>
+  <tr>
+    <td>Allie</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Allison</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Caroline</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Corey</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Daniel</td>
+    <td>10</td>
+    <td>195</td>
+  </tr>
+  <tr>
+    <td>Felix</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Gus</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Isabella</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Jackson</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Jordan</td>
+    <td>10</td>
+    <td>195</td>
+  </tr>
+  <tr>
+    <td>Lydia</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Megan</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Mike</td>
+    <td>10</td>
+    <td>345</td>
+  </tr>
+  <tr>
+    <td>Rob</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Sarah</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Tyler</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Xander</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+</table>
+
 
 ### Sorted by Points
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Points</th>
+    <th>TTP</th>
+  </tr>
+  <tr>
+    <td>Caroline</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Gus</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Lydia</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Megan</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Rob</td>
+    <td>10</td>
+    <td>195</td>
+  </tr>
+  <tr>
+    <td>Sarah</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Xander</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Allie</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Allison</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Corey</td>
+    <td>10</td>
+    <td>195</td>
+  </tr>
+  <tr>
+    <td>Felix</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Isabella</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Jackson</td>
+    <td>10</td>
+    <td>345</td>
+  </tr>
+  <tr>
+    <td>Tyler</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Mike</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Daniel</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Jordan</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+</table>
+
 
 ### Sorted by Total Possible Points
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Points</th>
+    <th>TTP</th>
+  </tr>
+  <tr>
+    <td>Caroline</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Gus</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Lydia</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Megan</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Rob</td>
+    <td>10</td>
+    <td>195</td>
+  </tr>
+  <tr>
+    <td>Sarah</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Xander</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Allie</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Allison</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Corey</td>
+    <td>10</td>
+    <td>195</td>
+  </tr>
+  <tr>
+    <td>Felix</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Isabella</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Jackson</td>
+    <td>10</td>
+    <td>345</td>
+  </tr>
+  <tr>
+    <td>Tyler</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Mike</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Daniel</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Jordan</td>
+    <td>20</td>
+    <td>380</td>
+  </tr>
+</table>
+
 
 ## Individual Brackets
 ### Allie
@@ -353,3 +895,4 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
 
 ### Xander
 ![Bracket_Xander](Results/UpdatedBrackets/Bracket_Xander.png)
+
