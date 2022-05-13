@@ -1,5 +1,6 @@
 # Office NHL Bracket Challenge
 ![Image](/StanleyCup.png)
+
 Thank you everyone who submitted a bracket. I enjoyed making this page and I hope you enjoy it as well.
 
 ## Stanley Cup Results
