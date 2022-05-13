@@ -50,3 +50,48 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
 
 ### Allison
 ![Bracket_Allison](Results/UpdatedBrackets/Bracket_Allison.png)
+
+### Caroline
+![Bracket_Caroline](Results/UpdatedBrackets/Bracket_Caroline.png)
+
+### Corey
+![Bracket_Corey](Results/UpdatedBrackets/Bracket_Corey.png)
+
+### Daniel
+![Bracket_Daniel](Results/UpdatedBrackets/Bracket_Daniel.png)
+
+### Felix
+![Bracket_Felix](Results/UpdatedBrackets/Bracket_Felix.png)
+
+### Gus
+![Bracket_Gus](Results/UpdatedBrackets/Bracket_Gus.png)
+
+### Isabella
+![Bracket_Isabella](Results/UpdatedBrackets/Bracket_Isabella.png)
+
+### Jackson
+![Bracket_Jackson](Results/UpdatedBrackets/Bracket_Jackson.png)
+
+### Jordan
+![Bracket_Jordan](Results/UpdatedBrackets/Bracket_Jordan.png)
+
+### Lydia
+![Bracket_Lydia](Results/UpdatedBrackets/Bracket_Lydia.png)
+
+### Megan
+![Bracket_Megan](Results/UpdatedBrackets/Bracket_Megan.png)
+
+### Mike
+![Bracket_Mike](Results/UpdatedBrackets/Bracket_Mike.png)
+
+### Rob
+![Bracket_Rob](Results/UpdatedBrackets/Bracket_Rob.png)
+
+### Sarah
+![Bracket_Sarah](Results/UpdatedBrackets/Bracket_Sarah.png)
+
+### Tyler
+![Bracket_Tyler](Results/UpdatedBrackets/Bracket_Tyler.png)
+
+### Xander
+![Bracket_Xander](Results/UpdatedBrackets/Bracket_Xander.png)
