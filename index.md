@@ -552,10 +552,10 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
 
 ## Bracket Standings
 How the scoring works
-* 10 :Correct Round 1 Winners
-* 25 :Correct Round 2 Winners
-* 50 :Correct Conference Finals Champions
-* 100:Correct Stanley Cup Champion
+* 10 : Correct Round 1 Winners
+* 25 : Correct Round 2 Winners
+* 50 : Correct Conference Finals Champions
+* 100: Correct Stanley Cup Champion
 
 TPP: Total Points Possible
 ### Sorted by Name
@@ -662,13 +662,13 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Caroline</td>
-    <td>10</td>
-    <td>370</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Gus</td>
-    <td>10</td>
-    <td>370</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Lydia</td>
@@ -677,18 +677,18 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Megan</td>
-    <td>10</td>
-    <td>370</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Rob</td>
-    <td>10</td>
-    <td>195</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Sarah</td>
-    <td>10</td>
-    <td>370</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Xander</td>
@@ -708,42 +708,42 @@ TPP: Total Points Possible
   <tr>
     <td>Corey</td>
     <td>10</td>
-    <td>195</td>
+    <td>370</td>
   </tr>
   <tr>
     <td>Felix</td>
-    <td>20</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Isabella</td>
-    <td>20</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Jackson</td>
-    <td>10</td>
-    <td>345</td>
-  </tr>
-  <tr>
-    <td>Tyler</td>
-    <td>20</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Mike</td>
-    <td>20</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Daniel</td>
     <td>10</td>
     <td>370</td>
   </tr>
   <tr>
+    <td>Isabella</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Jackson</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Tyler</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Mike</td>
+    <td>10</td>
+    <td>345</td>
+  </tr>
+  <tr>
+    <td>Daniel</td>
+    <td>10</td>
+    <td>195</td>
+  </tr>
+  <tr>
     <td>Jordan</td>
-    <td>20</td>
-    <td>380</td>
+    <td>10</td>
+    <td>195</td>
   </tr>
 </table>
 
@@ -758,13 +758,13 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Caroline</td>
-    <td>10</td>
-    <td>370</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Gus</td>
-    <td>10</td>
-    <td>370</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Lydia</td>
@@ -773,18 +773,18 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Megan</td>
-    <td>10</td>
-    <td>370</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Rob</td>
-    <td>10</td>
-    <td>195</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Sarah</td>
-    <td>10</td>
-    <td>370</td>
+    <td>20</td>
+    <td>380</td>
   </tr>
   <tr>
     <td>Xander</td>
@@ -804,42 +804,42 @@ TPP: Total Points Possible
   <tr>
     <td>Corey</td>
     <td>10</td>
-    <td>195</td>
+    <td>370</td>
   </tr>
   <tr>
     <td>Felix</td>
-    <td>20</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Isabella</td>
-    <td>20</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Jackson</td>
-    <td>10</td>
-    <td>345</td>
-  </tr>
-  <tr>
-    <td>Tyler</td>
-    <td>20</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Mike</td>
-    <td>20</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Daniel</td>
     <td>10</td>
     <td>370</td>
   </tr>
   <tr>
+    <td>Isabella</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Jackson</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Tyler</td>
+    <td>10</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Mike</td>
+    <td>10</td>
+    <td>345</td>
+  </tr>
+  <tr>
+    <td>Daniel</td>
+    <td>10</td>
+    <td>195</td>
+  </tr>
+  <tr>
     <td>Jordan</td>
-    <td>20</td>
-    <td>380</td>
+    <td>10</td>
+    <td>195</td>
   </tr>
 </table>
 

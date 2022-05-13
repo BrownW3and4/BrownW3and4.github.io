@@ -259,10 +259,10 @@ end
 %% Office Brackets Points
 fprintf(fileID,'## Bracket Standings\n');
 fprintf(fileID,'How the scoring works\n');
-fprintf(fileID,'* 10 :Correct Round 1 Winners\n');
-fprintf(fileID,'* 25 :Correct Round 2 Winners\n');
-fprintf(fileID,'* 50 :Correct Conference Finals Champions\n');
-fprintf(fileID,'* 100:Correct Stanley Cup Champion\n');
+fprintf(fileID,'* 10 : Correct Round 1 Winners\n');
+fprintf(fileID,'* 25 : Correct Round 2 Winners\n');
+fprintf(fileID,'* 50 : Correct Conference Finals Champions\n');
+fprintf(fileID,'* 100: Correct Stanley Cup Champion\n');
 fprintf(fileID,'\n');
 fprintf(fileID,'TPP: Total Points Possible\n');
 fprintf(fileID,'### Sorted by Name\n');
@@ -299,7 +299,7 @@ fprintf(fileID,'### Sorted by Points\n');
         j = 1;
         fprintf(fileID,['    <td>' Points_PointsAquired{i,j} '</td>\n']);
         for j = 2:3
-            fprintf(fileID,['    <td>' num2str(Points_Names{i,j}) '</td>\n']);
+            fprintf(fileID,['    <td>' num2str(Points_PointsAquired{i,j}) '</td>\n']);
         end
         fprintf(fileID,'  </tr>\n');
     end
@@ -323,7 +323,7 @@ fprintf(fileID,'\n');
         j = 1;
         fprintf(fileID,['    <td>' Points_PointsTPP{i,j} '</td>\n']);
         for j = 2:3
-            fprintf(fileID,['    <td>' num2str(Points_Names{i,j}) '</td>\n']);
+            fprintf(fileID,['    <td>' num2str(Points_PointsTPP{i,j}) '</td>\n']);
         end
         fprintf(fileID,'  </tr>\n');
     end
