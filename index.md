@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and 
 
-![Image](/BrownW3and4.github.io/StanleyCup.png)
+![Image](/docs/assets/StanleyCup.png)
 
 ```
 
