@@ -1,39 +1,52 @@
 # Office NHL Bracket Challenge
-![Image](/StanleyCup.png)
+![StanleyCup](Results/StanleyCup.png)
 
 Thank you everyone who submitted a bracket. I enjoyed making this page and I hope you enjoy it as well.
 
 ## Stanley Cup Results
+### Bracket
+![MasterBracket](Results/UpdatedBrackets/MasterBracket.png)
+
 ### Round 1  
   
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
   </tr>
   <tr>
-    <td style="background-color: green">Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td style="background-color: green">Avalanche</td>
+    <td style="background-color: green">7</td>
+    <td style="background-color: green">2</td>
+    <td style="background-color: green">7</td>
+    <td style="background-color: green">5</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Predators</td>
+    <td>2</td>
+    <td>1</td>
+    <td>3</td>
+    <td>3</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
   </tr>
 </table>
-  
-  
-
-|           | Game 1 | Game 2 | Game 3 | Game 4 | Game 5 | Game 6 | Game 7 |
-| :---      |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
-| **Avalanche** | **7**  | **2**  | **7**  | **5**  |        |        |        |
-| Predators | 2      | 1      | 3      | 3      |        |        |        |
 
 ## Bracket Standings
 
 ## Individual Brackets
 ### Allie
+![Bracket_Allie](Results/UpdatedBrackets/Bracket_Allie.png)
 
 ### Allison
+![Bracket_Allison](Results/UpdatedBrackets/Bracket_Allison.png)

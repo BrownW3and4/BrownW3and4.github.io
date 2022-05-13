@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1051"
+   height="360"
+   viewBox="0 0 278.07708 95.250003"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Felix.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.37059484"
+     inkscape:cx="1129.2656"
+     inkscape:cy="176.74288"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="1030.7753"
+       y="-168.64779"
+       width="24.285282"
+       height="133.56905"
+       id="rect18504" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:63.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="143.6151"
+       y="68.181488"
+       id="text3158"
+       inkscape:export-filename="F:\TylerFiles\GitHubRepos\NHL_Playoff_Bracket\InitialData\Nameplate\Felix.png"
+       inkscape:export-xdpi="216.05275"
+       inkscape:export-ydpi="216.05275"><tspan
+         id="tspan3156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.5px;font-family:Stencil;-inkscape-font-specification:Stencil;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="143.6151"
+         y="68.181488"
+         sodipodi:role="line">Felix</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text18502"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect18504)"
+       inkscape:export-filename="F:\TylerFiles\GitHubRepos\NHL_Playoff_Bracket\InitialData\Nameplate\Felix.png"
+       inkscape:export-xdpi="216.05275"
+       inkscape:export-ydpi="216.05275" />
+  </g>
+</svg>
