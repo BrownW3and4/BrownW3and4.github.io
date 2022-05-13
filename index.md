@@ -5,6 +5,25 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
 
 ## Stanley Cup Results
 ### Round 1
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
 |           | Game 1 | Game 2 | Game 3 | Game 4 | Game 5 | Game 6 | Game 7 |
 | :---      |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
 | **Avalanche** | **7**  | **2**  | **7**  | **5**  |        |        |        |
