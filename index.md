@@ -5,6 +5,8 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
 
 ## Stanley Cup Results
 ### Round 1
+
+
 <table id="myTable2">
 <tr>
 <!--When a header is clicked, run the sortTable function, with a parameter,
@@ -72,6 +74,8 @@ function sortTable(n) {
 </script>
 
 
+  
+  
 <table>
   <tr>
     <th>Company</th>
@@ -89,6 +93,8 @@ function sortTable(n) {
     <td>Mexico</td>
   </tr>
 </table>
+  
+  
 
 |           | Game 1 | Game 2 | Game 3 | Game 4 | Game 5 | Game 6 | Game 7 |
 | :---      |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
