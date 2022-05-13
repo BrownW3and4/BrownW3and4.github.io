@@ -4,7 +4,7 @@
 % clc;
 %% FLAGS
 FLAGS.SaveResults = 1;
-FLAGS.UseTestData = 1;
+FLAGS.UseTestData = 0;
 
 %% Load Teams, Series, and Scores Data
 load('TEAMS.mat');
