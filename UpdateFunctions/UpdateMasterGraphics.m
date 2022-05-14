@@ -1,5 +1,5 @@
 %%
-clear all; close all; clc;
+% clear all; close all; clc;
 %% XYPos for the Round 1 teams ( Not series)
 Rd1_XY = [
     200,  200
