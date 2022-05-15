@@ -134,15 +134,15 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td>Oilers</td>
+    <td style="background-color: green">Oilers</td>
     <td>3</td>
     <td style="background-color: green">6</td>
     <td style="background-color: green">8</td>
     <td>0</td>
     <td>4</td>
     <td style="background-color: green">4</td>
-    <td> </td>
-    <td>3</td>
+    <td style="background-color: green">2</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Kings</td>
@@ -152,7 +152,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td style="background-color: green">4</td>
     <td style="background-color: green">5</td>
     <td>2</td>
-    <td> </td>
+    <td>0</td>
     <td>3</td>
   </tr>
 </table>
@@ -215,19 +215,19 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td>3</td>
     <td style="background-color: green">4</td>
     <td>3</td>
-    <td> </td>
+    <td>1</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>Lightning</td>
+    <td style="background-color: green">Lightning</td>
     <td>0</td>
     <td style="background-color: green">5</td>
     <td>2</td>
     <td style="background-color: green">7</td>
     <td>3</td>
     <td style="background-color: green">4</td>
-    <td> </td>
-    <td>3</td>
+    <td style="background-color: green">2</td>
+    <td>4</td>
   </tr>
 </table>
 
@@ -245,15 +245,15 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td>Hurricanes</td>
+    <td style="background-color: green">Hurricanes</td>
     <td style="background-color: green">5</td>
     <td style="background-color: green">5</td>
     <td>2</td>
     <td>2</td>
     <td style="background-color: green">5</td>
     <td>2</td>
-    <td> </td>
-    <td>3</td>
+    <td style="background-color: green">3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Bruins</td>
@@ -263,7 +263,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td style="background-color: green">5</td>
     <td>1</td>
     <td style="background-color: green">5</td>
-    <td> </td>
+    <td>2</td>
     <td>3</td>
   </tr>
 </table>
@@ -388,7 +388,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 7</th>
   </tr>
   <tr>
-    <td></td>
+    <td>Panthers</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -398,7 +398,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
   </tr>
   <tr>
-    <td></td>
+    <td>Lightning</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -567,88 +567,88 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Allie</td>
-    <td>10</td>
-    <td>360</td>
+    <td>30</td>
+    <td>175</td>
   </tr>
   <tr>
     <td>Allison</td>
-    <td>10</td>
-    <td>285</td>
+    <td>20</td>
+    <td>240</td>
   </tr>
   <tr>
     <td>Caroline</td>
-    <td>20</td>
-    <td>370</td>
+    <td>30</td>
+    <td>300</td>
   </tr>
   <tr>
     <td>Corey</td>
-    <td>10</td>
-    <td>360</td>
+    <td>30</td>
+    <td>350</td>
   </tr>
   <tr>
     <td>Daniel</td>
-    <td>20</td>
-    <td>195</td>
+    <td>30</td>
+    <td>150</td>
   </tr>
   <tr>
     <td>Felix</td>
-    <td>10</td>
-    <td>360</td>
+    <td>30</td>
+    <td>325</td>
   </tr>
   <tr>
     <td>Gus</td>
-    <td>30</td>
-    <td>380</td>
+    <td>50</td>
+    <td>370</td>
   </tr>
   <tr>
     <td>Isabella</td>
-    <td>10</td>
-    <td>360</td>
+    <td>20</td>
+    <td>315</td>
   </tr>
   <tr>
     <td>Jackson</td>
-    <td>20</td>
-    <td>370</td>
+    <td>40</td>
+    <td>360</td>
   </tr>
   <tr>
     <td>Jordan</td>
-    <td>20</td>
-    <td>195</td>
+    <td>40</td>
+    <td>185</td>
   </tr>
   <tr>
     <td>Lydia</td>
-    <td>30</td>
-    <td>380</td>
+    <td>40</td>
+    <td>260</td>
   </tr>
   <tr>
     <td>Megan</td>
-    <td>20</td>
-    <td>370</td>
+    <td>40</td>
+    <td>335</td>
   </tr>
   <tr>
     <td>Mike</td>
-    <td>20</td>
+    <td>50</td>
     <td>345</td>
   </tr>
   <tr>
     <td>Rob</td>
-    <td>30</td>
+    <td>60</td>
     <td>380</td>
   </tr>
   <tr>
     <td>Sarah</td>
-    <td>30</td>
+    <td>60</td>
     <td>380</td>
   </tr>
   <tr>
     <td>Tyler</td>
-    <td>20</td>
-    <td>370</td>
+    <td>40</td>
+    <td>360</td>
   </tr>
   <tr>
     <td>Xander</td>
-    <td>20</td>
-    <td>345</td>
+    <td>40</td>
+    <td>310</td>
   </tr>
 </table>
 
@@ -661,89 +661,89 @@ TPP: Total Points Possible
     <th>TTP</th>
   </tr>
   <tr>
-    <td>Gus</td>
-    <td>30</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Lydia</td>
-    <td>30</td>
-    <td>380</td>
-  </tr>
-  <tr>
     <td>Rob</td>
-    <td>30</td>
+    <td>60</td>
     <td>380</td>
   </tr>
   <tr>
     <td>Sarah</td>
-    <td>30</td>
+    <td>60</td>
     <td>380</td>
   </tr>
   <tr>
-    <td>Caroline</td>
-    <td>20</td>
-    <td>370</td>
-  </tr>
-  <tr>
-    <td>Jackson</td>
-    <td>20</td>
-    <td>370</td>
-  </tr>
-  <tr>
-    <td>Megan</td>
-    <td>20</td>
-    <td>370</td>
-  </tr>
-  <tr>
-    <td>Tyler</td>
-    <td>20</td>
+    <td>Gus</td>
+    <td>50</td>
     <td>370</td>
   </tr>
   <tr>
     <td>Mike</td>
-    <td>20</td>
+    <td>50</td>
     <td>345</td>
+  </tr>
+  <tr>
+    <td>Jackson</td>
+    <td>40</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td>Tyler</td>
+    <td>40</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td>Megan</td>
+    <td>40</td>
+    <td>335</td>
   </tr>
   <tr>
     <td>Xander</td>
-    <td>20</td>
-    <td>345</td>
+    <td>40</td>
+    <td>310</td>
   </tr>
   <tr>
-    <td>Daniel</td>
-    <td>20</td>
-    <td>195</td>
+    <td>Lydia</td>
+    <td>40</td>
+    <td>260</td>
   </tr>
   <tr>
     <td>Jordan</td>
-    <td>20</td>
-    <td>195</td>
-  </tr>
-  <tr>
-    <td>Allie</td>
-    <td>10</td>
-    <td>360</td>
+    <td>40</td>
+    <td>185</td>
   </tr>
   <tr>
     <td>Corey</td>
-    <td>10</td>
-    <td>360</td>
+    <td>30</td>
+    <td>350</td>
   </tr>
   <tr>
     <td>Felix</td>
-    <td>10</td>
-    <td>360</td>
+    <td>30</td>
+    <td>325</td>
+  </tr>
+  <tr>
+    <td>Caroline</td>
+    <td>30</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>Allie</td>
+    <td>30</td>
+    <td>175</td>
+  </tr>
+  <tr>
+    <td>Daniel</td>
+    <td>30</td>
+    <td>150</td>
   </tr>
   <tr>
     <td>Isabella</td>
-    <td>10</td>
-    <td>360</td>
+    <td>20</td>
+    <td>315</td>
   </tr>
   <tr>
     <td>Allison</td>
-    <td>10</td>
-    <td>285</td>
+    <td>20</td>
+    <td>240</td>
   </tr>
 </table>
 
@@ -757,89 +757,89 @@ TPP: Total Points Possible
     <th>TTP</th>
   </tr>
   <tr>
-    <td>Gus</td>
-    <td>30</td>
-    <td>380</td>
-  </tr>
-  <tr>
-    <td>Lydia</td>
-    <td>30</td>
-    <td>380</td>
-  </tr>
-  <tr>
     <td>Rob</td>
-    <td>30</td>
+    <td>60</td>
     <td>380</td>
   </tr>
   <tr>
     <td>Sarah</td>
-    <td>30</td>
+    <td>60</td>
     <td>380</td>
   </tr>
   <tr>
-    <td>Caroline</td>
-    <td>20</td>
+    <td>Gus</td>
+    <td>50</td>
     <td>370</td>
   </tr>
   <tr>
     <td>Jackson</td>
-    <td>20</td>
-    <td>370</td>
-  </tr>
-  <tr>
-    <td>Megan</td>
-    <td>20</td>
-    <td>370</td>
+    <td>40</td>
+    <td>360</td>
   </tr>
   <tr>
     <td>Tyler</td>
-    <td>20</td>
-    <td>370</td>
-  </tr>
-  <tr>
-    <td>Allie</td>
-    <td>10</td>
+    <td>40</td>
     <td>360</td>
   </tr>
   <tr>
     <td>Corey</td>
-    <td>10</td>
-    <td>360</td>
-  </tr>
-  <tr>
-    <td>Felix</td>
-    <td>10</td>
-    <td>360</td>
-  </tr>
-  <tr>
-    <td>Isabella</td>
-    <td>10</td>
-    <td>360</td>
+    <td>30</td>
+    <td>350</td>
   </tr>
   <tr>
     <td>Mike</td>
-    <td>20</td>
+    <td>50</td>
     <td>345</td>
+  </tr>
+  <tr>
+    <td>Megan</td>
+    <td>40</td>
+    <td>335</td>
+  </tr>
+  <tr>
+    <td>Felix</td>
+    <td>30</td>
+    <td>325</td>
+  </tr>
+  <tr>
+    <td>Isabella</td>
+    <td>20</td>
+    <td>315</td>
   </tr>
   <tr>
     <td>Xander</td>
-    <td>20</td>
-    <td>345</td>
+    <td>40</td>
+    <td>310</td>
+  </tr>
+  <tr>
+    <td>Caroline</td>
+    <td>30</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>Lydia</td>
+    <td>40</td>
+    <td>260</td>
   </tr>
   <tr>
     <td>Allison</td>
-    <td>10</td>
-    <td>285</td>
-  </tr>
-  <tr>
-    <td>Daniel</td>
     <td>20</td>
-    <td>195</td>
+    <td>240</td>
   </tr>
   <tr>
     <td>Jordan</td>
-    <td>20</td>
-    <td>195</td>
+    <td>40</td>
+    <td>185</td>
+  </tr>
+  <tr>
+    <td>Allie</td>
+    <td>30</td>
+    <td>175</td>
+  </tr>
+  <tr>
+    <td>Daniel</td>
+    <td>30</td>
+    <td>150</td>
   </tr>
 </table>
 

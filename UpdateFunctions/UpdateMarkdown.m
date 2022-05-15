@@ -1,5 +1,5 @@
 %% Update Markdown
-clear all; close all; clc;
+% clear all; close all; clc;
 %%
 load('SERIES.mat')
 load('ScoringResults.mat')

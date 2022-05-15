@@ -1,7 +1,7 @@
 %%
-clear all;
+% clear all;
 % close all;
-clc;
+% clc;
 
 %%
 % People = {'Tyler'};

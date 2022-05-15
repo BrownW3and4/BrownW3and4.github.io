@@ -18,8 +18,8 @@ SCORES(:,:,3) = ...
 
 %% Series 4 Oilers/Kings
 SCORES(:,:,4) = ...
-   [3 6 8 0 4 4 2   % Oilers
-    4 0 2 4 5 2 0]; % Kings
+   [3 6 8 0 4 4 NaN   % Oilers
+    4 0 2 4 5 2 NaN]; % Kings
 
 %% Series 5 Panthers/Caps
 SCORES(:,:,5) = ...
@@ -38,7 +38,7 @@ SCORES(:,:,7) = ...
 
 %% Series 8 Rangers/Penguins
 SCORES(:,:,8) = ...
-   [3 5 4 2 5 5 NaN   % Rangers
+   [3 5 4 2 5 5 NaN 
     4 2 7 7 3 3 NaN]; % Penguins
 
 %% Series 9 Avs/Blues
