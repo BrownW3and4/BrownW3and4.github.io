@@ -13,8 +13,8 @@ SCORES(:,:,2) = ...
 
 %% Series 3 Flames/Stars
 SCORES(:,:,3) = ...
-   [1 0 2 4 3 2 NaN   % Flames
-    0 2 4 1 1 4 NaN]; % Stars
+   [1 0 2 4 3 2 3   % Flames
+    0 2 4 1 1 4 2]; % Stars
 
 %% Series 4 Oilers/Kings
 SCORES(:,:,4) = ...
@@ -38,28 +38,28 @@ SCORES(:,:,7) = ...
 
 %% Series 8 Rangers/Penguins
 SCORES(:,:,8) = ...
-   [3 5 4 2 5 5 NaN   % Rangers
-    4 2 7 7 3 3 NaN]; % Penguins
+   [3 5 4 2 5 5 4   % Rangers
+    4 2 7 7 3 3 3]; % Penguins
 
 %% Series 9 Avs/Blues
 SCORES(:,:,9) = ...
    [NaN NaN NaN NaN NaN NaN NaN   % Avs
     NaN NaN NaN NaN NaN NaN NaN]; % Blues
 
-%% Series 10 /
+%% Series 10 Flames/Oilers
 SCORES(:,:,10) = ...
-   [NaN NaN NaN NaN NaN NaN NaN 
-    NaN NaN NaN NaN NaN NaN NaN];
+   [NaN NaN NaN NaN NaN NaN NaN   % Flames
+    NaN NaN NaN NaN NaN NaN NaN]; % Oilers
 
-%% Series 11 /
+%% Series 11 Panthers/Lightning
 SCORES(:,:,11) = ...
-   [NaN NaN NaN NaN NaN NaN NaN 
-    NaN NaN NaN NaN NaN NaN NaN];
+   [NaN NaN NaN NaN NaN NaN NaN   % Panthers
+    NaN NaN NaN NaN NaN NaN NaN]; % Lightning
 
-%% Series 12 /
+%% Series 12 Hurricanes/Rangers
 SCORES(:,:,12) = ...
-   [NaN NaN NaN NaN NaN NaN NaN 
-    NaN NaN NaN NaN NaN NaN NaN];
+   [NaN NaN NaN NaN NaN NaN NaN   % Hurricanes
+    NaN NaN NaN NaN NaN NaN NaN]; % Rangers
 
 %% Series 13 /
 SCORES(:,:,13) = ...
