@@ -23,7 +23,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Avalanche</td>
-    <td> </td>
+    <td style="background-color: green">3</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -33,7 +33,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Blues</td>
-    <td> </td>
+    <td>2</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -91,7 +91,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Panthers</td>
-    <td> </td>
+    <td>1</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -101,7 +101,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Lightning</td>
-    <td> </td>
+    <td style="background-color: green">4</td>
     <td> </td>
     <td> </td>
     <td> </td>

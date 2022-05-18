@@ -43,8 +43,8 @@ SCORES(:,:,8) = ...
 
 %% Series 9 Avs/Blues
 SCORES(:,:,9) = ...
-   [NaN NaN NaN NaN NaN NaN NaN   % Avs
-    NaN NaN NaN NaN NaN NaN NaN]; % Blues
+   [3 NaN NaN NaN NaN NaN NaN   % Avs
+    2 NaN NaN NaN NaN NaN NaN]; % Blues
 
 %% Series 10 Flames/Oilers
 SCORES(:,:,10) = ...
@@ -53,8 +53,8 @@ SCORES(:,:,10) = ...
 
 %% Series 11 Panthers/Lightning
 SCORES(:,:,11) = ...
-   [NaN NaN NaN NaN NaN NaN NaN   % Panthers
-    NaN NaN NaN NaN NaN NaN NaN]; % Lightning
+   [1 NaN NaN NaN NaN NaN NaN   % Panthers
+    4 NaN NaN NaN NaN NaN NaN]; % Lightning
 
 %% Series 12 Hurricanes/Rangers
 SCORES(:,:,12) = ...
