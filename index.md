@@ -57,7 +57,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Flames</td>
-    <td> </td>
+    <td style="background-color: green">9</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -67,7 +67,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Oilers</td>
-    <td> </td>
+    <td>6</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -125,7 +125,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Hurricanes</td>
-    <td> </td>
+    <td style="background-color: green">2</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -135,7 +135,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Rangers</td>
-    <td> </td>
+    <td>1</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -563,7 +563,7 @@ TPP: Total Points Possible
   <tr>
     <th>Name</th>
     <th>Points</th>
-    <th>TTP</th>
+    <th>TPP</th>
   </tr>
   <tr>
     <td>Allie</td>
