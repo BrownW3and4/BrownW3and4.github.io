@@ -679,7 +679,7 @@ TPP: Total Points Possible
   <tr>
     <th>Name</th>
     <th>Points</th>
-    <th>TTP</th>
+    <th>TPP</th>
   </tr>
   <tr>
     <td>Sarah</td>
@@ -775,7 +775,7 @@ TPP: Total Points Possible
   <tr>
     <th>Name</th>
     <th>Points</th>
-    <th>TTP</th>
+    <th>TPP</th>
   </tr>
   <tr>
     <td>Sarah</td>

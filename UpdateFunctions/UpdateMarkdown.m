@@ -301,7 +301,7 @@ fprintf(fileID,'### Sorted by Points\n');
     fprintf(fileID,'  <tr>\n');
     fprintf(fileID,'    <th>Name</th>\n');
     fprintf(fileID,'    <th>Points</th>\n');
-    fprintf(fileID,'    <th>TTP</th>\n');
+    fprintf(fileID,'    <th>TPP</th>\n');
     fprintf(fileID,'  </tr>\n');
     for i = 1:length(Points_Names)
         fprintf(fileID,'  <tr>\n');
@@ -325,7 +325,7 @@ fprintf(fileID,'\n');
     fprintf(fileID,'  <tr>\n');
     fprintf(fileID,'    <th>Name</th>\n');
     fprintf(fileID,'    <th>Points</th>\n');
-    fprintf(fileID,'    <th>TTP</th>\n');
+    fprintf(fileID,'    <th>TPP</th>\n');
     fprintf(fileID,'  </tr>\n');
     for i = 1:length(Points_Names)
         fprintf(fileID,'  <tr>\n');
