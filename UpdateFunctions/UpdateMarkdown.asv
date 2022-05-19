@@ -159,7 +159,6 @@ for i = 15
     fprintf(fileID,'    <th>Game 5</th>\n');
     fprintf(fileID,'    <th>Game 6</th>\n');
     fprintf(fileID,'    <th>Game 7</th>\n');
-    fprintf(fileID,'    <th>Total Wins</th>\n');
     fprintf(fileID,'  </tr>\n');
     fprintf(fileID,'  <tr>\n');
     if strcmp(SERIES(i).HomeTeam , SERIES(i).Winner)
