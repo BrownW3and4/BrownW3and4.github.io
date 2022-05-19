@@ -20,6 +20,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 5</th>
     <th>Game 6</th>
     <th>Game 7</th>
+    <th>Total Wins</th>
   </tr>
   <tr>
     <td>Avalanche</td>
@@ -30,6 +31,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Blues</td>
@@ -40,6 +42,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>0</td>
   </tr>
 </table>
 
@@ -54,6 +57,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 5</th>
     <th>Game 6</th>
     <th>Game 7</th>
+    <th>Total Wins</th>
   </tr>
   <tr>
     <td>Flames</td>
@@ -64,6 +68,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Oilers</td>
@@ -74,6 +79,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>0</td>
   </tr>
 </table>
 
@@ -88,6 +94,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 5</th>
     <th>Game 6</th>
     <th>Game 7</th>
+    <th>Total Wins</th>
   </tr>
   <tr>
     <td>Panthers</td>
@@ -98,6 +105,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>0</td>
   </tr>
   <tr>
     <td>Lightning</td>
@@ -108,6 +116,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>1</td>
   </tr>
 </table>
 
@@ -122,6 +131,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 5</th>
     <th>Game 6</th>
     <th>Game 7</th>
+    <th>Total Wins</th>
   </tr>
   <tr>
     <td>Hurricanes</td>
@@ -132,6 +142,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Rangers</td>
@@ -142,6 +153,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td>0</td>
   </tr>
 </table>
 
@@ -158,6 +170,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 5</th>
     <th>Game 6</th>
     <th>Game 7</th>
+    <th>Total Wins</th>
   </tr>
   <tr>
     <td></td>
@@ -168,6 +181,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -178,6 +192,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td></td>
   </tr>
 </table>
 
@@ -192,6 +207,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 5</th>
     <th>Game 6</th>
     <th>Game 7</th>
+    <th>Total Wins</th>
   </tr>
   <tr>
     <td></td>
@@ -202,6 +218,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -212,6 +229,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td></td>
   </tr>
 </table>
 
@@ -228,6 +246,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Game 5</th>
     <th>Game 6</th>
     <th>Game 7</th>
+    <th>Total Wins</th>
   </tr>
   <tr>
     <td></td>
@@ -238,6 +257,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -248,6 +268,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
+    <td></td>
   </tr>
 </table>
 
