@@ -25,7 +25,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   <tr>
     <td>Avalanche</td>
     <td style="background-color: green">3</td>
-    <td> </td>
+    <td>1</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -36,13 +36,13 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   <tr>
     <td>Blues</td>
     <td>2</td>
+    <td style="background-color: green">4</td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td>0</td>
+    <td>1</td>
   </tr>
 </table>
 
@@ -99,7 +99,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   <tr>
     <td>Panthers</td>
     <td>1</td>
-    <td> </td>
+    <td>1</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -110,13 +110,13 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   <tr>
     <td>Lightning</td>
     <td style="background-color: green">4</td>
+    <td style="background-color: green">2</td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td>1</td>
+    <td>2</td>
   </tr>
 </table>
 
