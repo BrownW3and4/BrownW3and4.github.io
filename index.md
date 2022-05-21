@@ -62,7 +62,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   <tr>
     <td>Flames</td>
     <td style="background-color: green">9</td>
-    <td> </td>
+    <td>3</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -73,13 +73,13 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   <tr>
     <td>Oilers</td>
     <td>6</td>
+    <td style="background-color: green">5</td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td>0</td>
+    <td>1</td>
   </tr>
 </table>
 
@@ -136,18 +136,18 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   <tr>
     <td>Hurricanes</td>
     <td style="background-color: green">2</td>
+    <td style="background-color: green">2</td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Rangers</td>
     <td>1</td>
-    <td> </td>
+    <td>0</td>
     <td> </td>
     <td> </td>
     <td> </td>
