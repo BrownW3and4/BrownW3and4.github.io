@@ -43,8 +43,8 @@ SCORES(:,:,8) = ...
 
 %% Series 9 Avs/Blues
 SCORES(:,:,9) = ...
-   [3 1 NaN NaN NaN NaN NaN   % Avs
-    2 4 NaN NaN NaN NaN NaN]; % Blues
+   [3 1 5 NaN NaN NaN NaN   % Avs
+    2 4 2 NaN NaN NaN NaN]; % Blues
 
 %% Series 10 Flames/Oilers
 SCORES(:,:,10) = ...
