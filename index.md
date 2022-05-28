@@ -23,15 +23,15 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td>Avalanche</td>
+    <td style="background-color: green">Avalanche</td>
     <td style="background-color: green">3</td>
     <td>1</td>
     <td style="background-color: green">5</td>
     <td style="background-color: green">6</td>
     <td>4</td>
+    <td style="background-color: green">3</td>
     <td> </td>
-    <td> </td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Blues</td>
@@ -40,7 +40,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td>2</td>
     <td>3</td>
     <td style="background-color: green">5</td>
-    <td> </td>
+    <td>2</td>
     <td> </td>
     <td>2</td>
   </tr>
@@ -173,7 +173,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td></td>
+    <td>Avalanche</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -181,10 +181,10 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
-    <td></td>
+    <td>0</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Oilers</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -192,7 +192,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
-    <td></td>
+    <td>0</td>
   </tr>
 </table>
 
@@ -588,22 +588,22 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Allie</td>
-    <td>40</td>
+    <td>65</td>
     <td>140</td>
   </tr>
   <tr>
     <td>Allison</td>
-    <td>20</td>
+    <td>45</td>
     <td>195</td>
   </tr>
   <tr>
     <td>Caroline</td>
-    <td>50</td>
+    <td>75</td>
     <td>300</td>
   </tr>
   <tr>
     <td>Corey</td>
-    <td>65</td>
+    <td>90</td>
     <td>265</td>
   </tr>
   <tr>
@@ -613,22 +613,22 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Felix</td>
-    <td>55</td>
+    <td>80</td>
     <td>230</td>
   </tr>
   <tr>
     <td>Gus</td>
-    <td>70</td>
+    <td>95</td>
     <td>270</td>
   </tr>
   <tr>
     <td>Isabella</td>
-    <td>40</td>
+    <td>65</td>
     <td>290</td>
   </tr>
   <tr>
     <td>Jackson</td>
-    <td>60</td>
+    <td>85</td>
     <td>260</td>
   </tr>
   <tr>
@@ -638,12 +638,12 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Lydia</td>
-    <td>50</td>
+    <td>75</td>
     <td>225</td>
   </tr>
   <tr>
     <td>Megan</td>
-    <td>65</td>
+    <td>90</td>
     <td>240</td>
   </tr>
   <tr>
@@ -653,22 +653,22 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Rob</td>
-    <td>70</td>
+    <td>95</td>
     <td>270</td>
   </tr>
   <tr>
     <td>Sarah</td>
-    <td>80</td>
+    <td>105</td>
     <td>280</td>
   </tr>
   <tr>
     <td>Tyler</td>
-    <td>50</td>
+    <td>75</td>
     <td>300</td>
   </tr>
   <tr>
     <td>Xander</td>
-    <td>50</td>
+    <td>75</td>
     <td>125</td>
   </tr>
 </table>
@@ -682,24 +682,64 @@ TPP: Total Points Possible
     <th>TPP</th>
   </tr>
   <tr>
+    <td>Sarah</td>
+    <td>105</td>
+    <td>280</td>
+  </tr>
+  <tr>
+    <td>Gus</td>
+    <td>95</td>
+    <td>270</td>
+  </tr>
+  <tr>
+    <td>Rob</td>
+    <td>95</td>
+    <td>270</td>
+  </tr>
+  <tr>
+    <td>Corey</td>
+    <td>90</td>
+    <td>265</td>
+  </tr>
+  <tr>
+    <td>Megan</td>
+    <td>90</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>Jackson</td>
+    <td>85</td>
+    <td>260</td>
+  </tr>
+  <tr>
     <td>Jordan</td>
     <td>85</td>
     <td>160</td>
   </tr>
   <tr>
-    <td>Sarah</td>
+    <td>Felix</td>
     <td>80</td>
-    <td>280</td>
+    <td>230</td>
   </tr>
   <tr>
-    <td>Gus</td>
-    <td>70</td>
-    <td>270</td>
+    <td>Caroline</td>
+    <td>75</td>
+    <td>300</td>
   </tr>
   <tr>
-    <td>Rob</td>
-    <td>70</td>
-    <td>270</td>
+    <td>Tyler</td>
+    <td>75</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>Lydia</td>
+    <td>75</td>
+    <td>225</td>
+  </tr>
+  <tr>
+    <td>Xander</td>
+    <td>75</td>
+    <td>125</td>
   </tr>
   <tr>
     <td>Mike</td>
@@ -707,64 +747,24 @@ TPP: Total Points Possible
     <td>95</td>
   </tr>
   <tr>
-    <td>Corey</td>
-    <td>65</td>
-    <td>265</td>
-  </tr>
-  <tr>
-    <td>Megan</td>
-    <td>65</td>
-    <td>240</td>
-  </tr>
-  <tr>
-    <td>Jackson</td>
-    <td>60</td>
-    <td>260</td>
-  </tr>
-  <tr>
-    <td>Felix</td>
-    <td>55</td>
-    <td>230</td>
-  </tr>
-  <tr>
-    <td>Caroline</td>
-    <td>50</td>
-    <td>300</td>
-  </tr>
-  <tr>
-    <td>Tyler</td>
-    <td>50</td>
-    <td>300</td>
-  </tr>
-  <tr>
-    <td>Lydia</td>
-    <td>50</td>
-    <td>225</td>
-  </tr>
-  <tr>
-    <td>Xander</td>
-    <td>50</td>
-    <td>125</td>
-  </tr>
-  <tr>
     <td>Isabella</td>
-    <td>40</td>
+    <td>65</td>
     <td>290</td>
   </tr>
   <tr>
     <td>Allie</td>
-    <td>40</td>
+    <td>65</td>
     <td>140</td>
+  </tr>
+  <tr>
+    <td>Allison</td>
+    <td>45</td>
+    <td>195</td>
   </tr>
   <tr>
     <td>Daniel</td>
     <td>30</td>
     <td>30</td>
-  </tr>
-  <tr>
-    <td>Allison</td>
-    <td>20</td>
-    <td>195</td>
   </tr>
 </table>
 
@@ -779,62 +779,62 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Caroline</td>
-    <td>50</td>
+    <td>75</td>
     <td>300</td>
   </tr>
   <tr>
     <td>Tyler</td>
-    <td>50</td>
+    <td>75</td>
     <td>300</td>
   </tr>
   <tr>
     <td>Isabella</td>
-    <td>40</td>
+    <td>65</td>
     <td>290</td>
   </tr>
   <tr>
     <td>Sarah</td>
-    <td>80</td>
+    <td>105</td>
     <td>280</td>
   </tr>
   <tr>
     <td>Gus</td>
-    <td>70</td>
+    <td>95</td>
     <td>270</td>
   </tr>
   <tr>
     <td>Rob</td>
-    <td>70</td>
+    <td>95</td>
     <td>270</td>
   </tr>
   <tr>
     <td>Corey</td>
-    <td>65</td>
+    <td>90</td>
     <td>265</td>
   </tr>
   <tr>
     <td>Jackson</td>
-    <td>60</td>
+    <td>85</td>
     <td>260</td>
   </tr>
   <tr>
     <td>Megan</td>
-    <td>65</td>
+    <td>90</td>
     <td>240</td>
   </tr>
   <tr>
     <td>Felix</td>
-    <td>55</td>
+    <td>80</td>
     <td>230</td>
   </tr>
   <tr>
     <td>Lydia</td>
-    <td>50</td>
+    <td>75</td>
     <td>225</td>
   </tr>
   <tr>
     <td>Allison</td>
-    <td>20</td>
+    <td>45</td>
     <td>195</td>
   </tr>
   <tr>
@@ -844,12 +844,12 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Allie</td>
-    <td>40</td>
+    <td>65</td>
     <td>140</td>
   </tr>
   <tr>
     <td>Xander</td>
-    <td>50</td>
+    <td>75</td>
     <td>125</td>
   </tr>
   <tr>
