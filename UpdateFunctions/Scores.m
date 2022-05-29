@@ -58,8 +58,8 @@ SCORES(:,:,11) = ...
 
 %% Series 12 Hurricanes/Rangers
 SCORES(:,:,12) = ...
-   [2 2 1 1 3 NaN NaN   % Hurricanes
-    1 0 3 4 1 NaN NaN]; % Rangers
+   [2 2 1 1 3 2 NaN   % Hurricanes
+    1 0 3 4 1 5 NaN]; % Rangers
 
 %% Series 13 /
 SCORES(:,:,13) = ...
