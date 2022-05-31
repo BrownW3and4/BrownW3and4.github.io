@@ -5,7 +5,7 @@ clear all; close all; clc;
 FLAGS.Perform_Complete_Initialization = 0;
 FLAGS.Series_Teams_Initialization = 1;
 FLAGS.Update_Brackets_and_Points = 1;
-FLAGS.Update_Graphics = 0;
+FLAGS.Update_Graphics = 1;
 FLAGS.Update_Markdown = 1;
 FLAGS.Run_Git_Commands = 0; %%%Not implemented
 
