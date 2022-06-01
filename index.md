@@ -174,18 +174,18 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Avalanche</td>
+    <td style="background-color: green">8</td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td>0</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Oilers</td>
-    <td> </td>
+    <td>6</td>
     <td> </td>
     <td> </td>
     <td> </td>

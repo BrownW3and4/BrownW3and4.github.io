@@ -63,8 +63,8 @@ SCORES(:,:,12) = ...
 
 %% Series 13 /
 SCORES(:,:,13) = ...
-   [NaN NaN NaN NaN NaN NaN NaN   % Avs
-    NaN NaN NaN NaN NaN NaN NaN]; % Oilers
+   [8 NaN NaN NaN NaN NaN NaN   % Avs
+    6 NaN NaN NaN NaN NaN NaN]; % Oilers
 
 %% Series 14 /
 SCORES(:,:,14) = ...
