@@ -21,67 +21,6 @@ fprintf(fileID,'\n');
 fprintf(fileID,'\n');
 
 %% NHL Game Scores Section
-% Round 2
-fprintf(fileID,'### Round 2  \n');
-fprintf(fileID,'\n');
-
-% Loop through the first round series
-for i = 9:12
-    fprintf(fileID,'<table>\n');
-    fprintf(fileID,'  <tr>\n');
-    fprintf(fileID,'    <th> </th>\n');
-    fprintf(fileID,'    <th>Game 1</th>\n');
-    fprintf(fileID,'    <th>Game 2</th>\n');
-    fprintf(fileID,'    <th>Game 3</th>\n');
-    fprintf(fileID,'    <th>Game 4</th>\n');
-    fprintf(fileID,'    <th>Game 5</th>\n');
-    fprintf(fileID,'    <th>Game 6</th>\n');
-    fprintf(fileID,'    <th>Game 7</th>\n');
-    fprintf(fileID,'    <th>Total Wins</th>\n');
-    fprintf(fileID,'  </tr>\n');
-    fprintf(fileID,'  <tr>\n');
-    if strcmp(SERIES(i).HomeTeam , SERIES(i).Winner)
-        fprintf(fileID,['    <td style="background-color: green">' SERIES(i).HomeTeam '</td>\n']);
-    else
-        fprintf(fileID,['    <td>' SERIES(i).HomeTeam '</td>\n']);
-    end
-    for j = 1:7
-        if isnan(SCORES(1,j,i))
-            fprintf(fileID,'    <td> </td>\n');
-        else
-            if SCORES(1,j,i) > SCORES(2,j,i)
-                fprintf(fileID,['    <td style="background-color: green">' num2str(SCORES(1,j,i)) '</td>\n']);
-            else
-                fprintf(fileID,['    <td>' num2str(SCORES(1,j,i)) '</td>\n']);
-            end
-        end
-    end
-    fprintf(fileID,['    <td>' num2str(SERIES(i).HomeWins) '</td>\n']);
-    fprintf(fileID,'  </tr>\n');
-    fprintf(fileID,'  <tr>\n');
-    if strcmp(SERIES(i).AwayTeam , SERIES(i).Winner)
-        fprintf(fileID,['    <td style="background-color: green">' SERIES(i).AwayTeam '</td>\n']);
-    else
-        fprintf(fileID,['    <td>' SERIES(i).AwayTeam '</td>\n']);
-    end
-    for j = 1:7
-        if isnan(SCORES(2,j,i))
-            fprintf(fileID,'    <td> </td>\n');
-        else
-            if SCORES(2,j,i) > SCORES(1,j,i)
-                fprintf(fileID,['    <td style="background-color: green">' num2str(SCORES(2,j,i)) '</td>\n']);
-            else
-                fprintf(fileID,['    <td>' num2str(SCORES(2,j,i)) '</td>\n']);
-            end
-        end
-    end
-    fprintf(fileID,['    <td>' num2str(SERIES(i).AwayWins) '</td>\n']);
-    fprintf(fileID,'  </tr>\n');
-    fprintf(fileID,'</table>\n');
-    fprintf(fileID,'\n');
-    fprintf(fileID,'\n');
-end
-
 % Conference Finals
 fprintf(fileID,'### Conference Finals  \n');
 fprintf(fileID,'\n');
@@ -264,6 +203,66 @@ for i = 1:8
     fprintf(fileID,'\n');
 end
 
+% Round 2
+fprintf(fileID,'### Round 2  \n');
+fprintf(fileID,'\n');
+
+% Loop through the first round series
+for i = 9:12
+    fprintf(fileID,'<table>\n');
+    fprintf(fileID,'  <tr>\n');
+    fprintf(fileID,'    <th> </th>\n');
+    fprintf(fileID,'    <th>Game 1</th>\n');
+    fprintf(fileID,'    <th>Game 2</th>\n');
+    fprintf(fileID,'    <th>Game 3</th>\n');
+    fprintf(fileID,'    <th>Game 4</th>\n');
+    fprintf(fileID,'    <th>Game 5</th>\n');
+    fprintf(fileID,'    <th>Game 6</th>\n');
+    fprintf(fileID,'    <th>Game 7</th>\n');
+    fprintf(fileID,'    <th>Total Wins</th>\n');
+    fprintf(fileID,'  </tr>\n');
+    fprintf(fileID,'  <tr>\n');
+    if strcmp(SERIES(i).HomeTeam , SERIES(i).Winner)
+        fprintf(fileID,['    <td style="background-color: green">' SERIES(i).HomeTeam '</td>\n']);
+    else
+        fprintf(fileID,['    <td>' SERIES(i).HomeTeam '</td>\n']);
+    end
+    for j = 1:7
+        if isnan(SCORES(1,j,i))
+            fprintf(fileID,'    <td> </td>\n');
+        else
+            if SCORES(1,j,i) > SCORES(2,j,i)
+                fprintf(fileID,['    <td style="background-color: green">' num2str(SCORES(1,j,i)) '</td>\n']);
+            else
+                fprintf(fileID,['    <td>' num2str(SCORES(1,j,i)) '</td>\n']);
+            end
+        end
+    end
+    fprintf(fileID,['    <td>' num2str(SERIES(i).HomeWins) '</td>\n']);
+    fprintf(fileID,'  </tr>\n');
+    fprintf(fileID,'  <tr>\n');
+    if strcmp(SERIES(i).AwayTeam , SERIES(i).Winner)
+        fprintf(fileID,['    <td style="background-color: green">' SERIES(i).AwayTeam '</td>\n']);
+    else
+        fprintf(fileID,['    <td>' SERIES(i).AwayTeam '</td>\n']);
+    end
+    for j = 1:7
+        if isnan(SCORES(2,j,i))
+            fprintf(fileID,'    <td> </td>\n');
+        else
+            if SCORES(2,j,i) > SCORES(1,j,i)
+                fprintf(fileID,['    <td style="background-color: green">' num2str(SCORES(2,j,i)) '</td>\n']);
+            else
+                fprintf(fileID,['    <td>' num2str(SCORES(2,j,i)) '</td>\n']);
+            end
+        end
+    end
+    fprintf(fileID,['    <td>' num2str(SERIES(i).AwayWins) '</td>\n']);
+    fprintf(fileID,'  </tr>\n');
+    fprintf(fileID,'</table>\n');
+    fprintf(fileID,'\n');
+    fprintf(fileID,'\n');
+end
 
 %% Office Brackets Points
 fprintf(fileID,'## Bracket Standings\n');
