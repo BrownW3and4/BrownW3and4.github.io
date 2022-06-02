@@ -61,18 +61,18 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Rangers</td>
+    <td style="background-color: green">6</td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td>0</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Lightning</td>
-    <td> </td>
+    <td>2</td>
     <td> </td>
     <td> </td>
     <td> </td>
