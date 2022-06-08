@@ -68,12 +68,12 @@ SCORES(:,:,13) = ...
 
 %% Series 14 /
 SCORES(:,:,14) = ...
-   [6 3 2 NaN NaN NaN NaN   % Rangers
-    2 2 3 NaN NaN NaN NaN]; % Lightning
+   [6 3 2 0 NaN NaN NaN   % Rangers
+    2 2 3 2 NaN NaN NaN]; % Lightning
 
 %% Series 15 /
 SCORES(:,:,15) = ...
-   [NaN NaN NaN NaN NaN NaN NaN 
-    NaN NaN NaN NaN NaN NaN NaN];
+   [NaN NaN NaN NaN NaN NaN NaN   % Avs
+    NaN NaN NaN NaN NaN NaN NaN]; % 
 
 end
