@@ -65,7 +65,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td style="background-color: green">3</td>
     <td>2</td>
     <td>0</td>
-    <td> </td>
+    <td>1</td>
     <td> </td>
     <td> </td>
     <td>2</td>
@@ -76,10 +76,10 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td>2</td>
     <td style="background-color: green">3</td>
     <td style="background-color: green">2</td>
+    <td style="background-color: green">3</td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td>2</td>
+    <td>3</td>
   </tr>
 </table>
 
