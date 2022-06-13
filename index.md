@@ -8,82 +8,6 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
 ![MasterBracket](Results/UpdatedBrackets/MasterBracket.png)
 
 
-### Conference Finals  
-
-<table>
-  <tr>
-    <th> </th>
-    <th>Game 1</th>
-    <th>Game 2</th>
-    <th>Game 3</th>
-    <th>Game 4</th>
-    <th>Game 5</th>
-    <th>Game 6</th>
-    <th>Game 7</th>
-    <th>Total Wins</th>
-  </tr>
-  <tr>
-    <td style="background-color: green">Avalanche</td>
-    <td style="background-color: green">8</td>
-    <td style="background-color: green">4</td>
-    <td style="background-color: green">4</td>
-    <td style="background-color: green">6</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>Oilers</td>
-    <td>6</td>
-    <td>0</td>
-    <td>2</td>
-    <td>5</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>0</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <th> </th>
-    <th>Game 1</th>
-    <th>Game 2</th>
-    <th>Game 3</th>
-    <th>Game 4</th>
-    <th>Game 5</th>
-    <th>Game 6</th>
-    <th>Game 7</th>
-    <th>Total Wins</th>
-  </tr>
-  <tr>
-    <td>Rangers</td>
-    <td style="background-color: green">6</td>
-    <td style="background-color: green">3</td>
-    <td>2</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td> </td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td style="background-color: green">Lightning</td>
-    <td>2</td>
-    <td>2</td>
-    <td style="background-color: green">3</td>
-    <td style="background-color: green">4</td>
-    <td style="background-color: green">3</td>
-    <td style="background-color: green">2</td>
-    <td> </td>
-    <td>4</td>
-  </tr>
-</table>
-
-
 ### Stanley Cup Finals  
 
 <table>
@@ -566,6 +490,82 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td>1</td>
     <td style="background-color: green">5</td>
     <td style="background-color: green">6</td>
+    <td>4</td>
+  </tr>
+</table>
+
+
+### Conference Finals  
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+    <th>Total Wins</th>
+  </tr>
+  <tr>
+    <td style="background-color: green">Avalanche</td>
+    <td style="background-color: green">8</td>
+    <td style="background-color: green">4</td>
+    <td style="background-color: green">4</td>
+    <td style="background-color: green">6</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Oilers</td>
+    <td>6</td>
+    <td>0</td>
+    <td>2</td>
+    <td>5</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>0</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Game 1</th>
+    <th>Game 2</th>
+    <th>Game 3</th>
+    <th>Game 4</th>
+    <th>Game 5</th>
+    <th>Game 6</th>
+    <th>Game 7</th>
+    <th>Total Wins</th>
+  </tr>
+  <tr>
+    <td>Rangers</td>
+    <td style="background-color: green">6</td>
+    <td style="background-color: green">3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td> </td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td style="background-color: green">Lightning</td>
+    <td>2</td>
+    <td>2</td>
+    <td style="background-color: green">3</td>
+    <td style="background-color: green">4</td>
+    <td style="background-color: green">3</td>
+    <td style="background-color: green">2</td>
+    <td> </td>
     <td>4</td>
   </tr>
 </table>
