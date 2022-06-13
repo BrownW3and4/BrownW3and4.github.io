@@ -66,20 +66,20 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td>2</td>
     <td>1</td>
     <td>1</td>
-    <td> </td>
+    <td>1</td>
     <td> </td>
     <td>2</td>
   </tr>
   <tr>
-    <td>Lightning</td>
+    <td style="background-color: green">Lightning</td>
     <td>2</td>
     <td>2</td>
     <td style="background-color: green">3</td>
     <td style="background-color: green">4</td>
     <td style="background-color: green">3</td>
+    <td style="background-color: green">2</td>
     <td> </td>
-    <td> </td>
-    <td>3</td>
+    <td>4</td>
   </tr>
 </table>
 
@@ -99,7 +99,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td></td>
+    <td>Avalanche</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -107,10 +107,10 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
-    <td></td>
+    <td>0</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Lightning</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -118,7 +118,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td> </td>
     <td> </td>
     <td> </td>
-    <td></td>
+    <td>0</td>
   </tr>
 </table>
 
@@ -603,7 +603,7 @@ TPP: Total Points Possible
   </tr>
   <tr>
     <td>Corey</td>
-    <td>90</td>
+    <td>140</td>
     <td>240</td>
   </tr>
   <tr>
@@ -697,6 +697,11 @@ TPP: Total Points Possible
     <td>245</td>
   </tr>
   <tr>
+    <td>Corey</td>
+    <td>140</td>
+    <td>240</td>
+  </tr>
+  <tr>
     <td>Megan</td>
     <td>140</td>
     <td>240</td>
@@ -740,11 +745,6 @@ TPP: Total Points Possible
     <td>Allison</td>
     <td>95</td>
     <td>195</td>
-  </tr>
-  <tr>
-    <td>Corey</td>
-    <td>90</td>
-    <td>240</td>
   </tr>
   <tr>
     <td>Jordan</td>
@@ -793,13 +793,13 @@ TPP: Total Points Possible
     <td>245</td>
   </tr>
   <tr>
-    <td>Megan</td>
+    <td>Corey</td>
     <td>140</td>
     <td>240</td>
   </tr>
   <tr>
-    <td>Corey</td>
-    <td>90</td>
+    <td>Megan</td>
+    <td>140</td>
     <td>240</td>
   </tr>
   <tr>
