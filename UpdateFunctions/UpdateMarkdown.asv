@@ -97,16 +97,6 @@ fprintf(fileID,'### Round 1  \n');
 fprintf(fileID,'\n');
 
 for i = 1:8
-    % Find the home and away colors
-    for j = 1:16
-        if strcmp(SERIES(i).HomeTeam , TEAMS(j).Name)
-            homeColor = TEAMS(j).Color;
-        end
-        if strcmp(SERIES(i).AwayTeam , TEAMS(j).Name)
-            awayColor = TEAMS(j).Color;
-        end        
-    end
-    % Make Table
     fprintf(fileID,'<table>\n');
     fprintf(fileID,'  <tr>\n');
     fprintf(fileID,'    <th> </th>\n');
@@ -140,7 +130,7 @@ for i = 1:8
     fprintf(fileID,'  </tr>\n');
     fprintf(fileID,'  <tr>\n');
     if strcmp(SERIES(i).AwayTeam , SERIES(i).Winner)
-        fprintf(fileID,['    <td style="background-color: ' awayColor '">' SERIES(i).AwayTeam '</td>\n']);
+        fprintf(fileID,['    <td style="background-color: ' agreen">' SERIES(i).AwayTeam '</td>\n']);
     else
         fprintf(fileID,['    <td>' SERIES(i).AwayTeam '</td>\n']);
     end
@@ -149,7 +139,7 @@ for i = 1:8
             fprintf(fileID,'    <td> </td>\n');
         else
             if SCORES(2,j,i) > SCORES(1,j,i)
-                fprintf(fileID,['    <td style="background-color: ' awayColor '">' num2str(SCORES(2,j,i)) '</td>\n']);
+                fprintf(fileID,['    <td style="background-color: green">' num2str(SCORES(2,j,i)) '</td>\n']);
             else
                 fprintf(fileID,['    <td>' num2str(SCORES(2,j,i)) '</td>\n']);
             end
@@ -168,16 +158,6 @@ fprintf(fileID,'\n');
 
 % Loop through the first round series
 for i = 9:12
-    % Find the home and away colors
-    for j = 1:16
-        if strcmp(SERIES(i).HomeTeam , TEAMS(j).Name)
-            homeColor = TEAMS(j).Color;
-        end
-        if strcmp(SERIES(i).AwayTeam , TEAMS(j).Name)
-            awayColor = TEAMS(j).Color;
-        end        
-    end
-    % Make Table
     fprintf(fileID,'<table>\n');
     fprintf(fileID,'  <tr>\n');
     fprintf(fileID,'    <th> </th>\n');
@@ -192,7 +172,7 @@ for i = 9:12
     fprintf(fileID,'  </tr>\n');
     fprintf(fileID,'  <tr>\n');
     if strcmp(SERIES(i).HomeTeam , SERIES(i).Winner)
-        fprintf(fileID,['    <td style="background-color: ' homeColor '">' SERIES(i).HomeTeam '</td>\n']);
+        fprintf(fileID,['    <td style="background-color: green">' SERIES(i).HomeTeam '</td>\n']);
     else
         fprintf(fileID,['    <td>' SERIES(i).HomeTeam '</td>\n']);
     end
@@ -201,7 +181,7 @@ for i = 9:12
             fprintf(fileID,'    <td> </td>\n');
         else
             if SCORES(1,j,i) > SCORES(2,j,i)
-                fprintf(fileID,['    <td style="background-color: ' homeColor '">' num2str(SCORES(1,j,i)) '</td>\n']);
+                fprintf(fileID,['    <td style="background-color: green">' num2str(SCORES(1,j,i)) '</td>\n']);
             else
                 fprintf(fileID,['    <td>' num2str(SCORES(1,j,i)) '</td>\n']);
             end
@@ -211,7 +191,7 @@ for i = 9:12
     fprintf(fileID,'  </tr>\n');
     fprintf(fileID,'  <tr>\n');
     if strcmp(SERIES(i).AwayTeam , SERIES(i).Winner)
-        fprintf(fileID,['    <td style="background-color: ' awayColor '">' SERIES(i).AwayTeam '</td>\n']);
+        fprintf(fileID,['    <td style="background-color: green">' SERIES(i).AwayTeam '</td>\n']);
     else
         fprintf(fileID,['    <td>' SERIES(i).AwayTeam '</td>\n']);
     end
@@ -220,7 +200,7 @@ for i = 9:12
             fprintf(fileID,'    <td> </td>\n');
         else
             if SCORES(2,j,i) > SCORES(1,j,i)
-                fprintf(fileID,['    <td style="background-color: ' awayColor '">' num2str(SCORES(2,j,i)) '</td>\n']);
+                fprintf(fileID,['    <td style="background-color: green">' num2str(SCORES(2,j,i)) '</td>\n']);
             else
                 fprintf(fileID,['    <td>' num2str(SCORES(2,j,i)) '</td>\n']);
             end
@@ -239,16 +219,6 @@ fprintf(fileID,'\n');
 
 % Loop through the first round series
 for i = 13:14
-    % Find the home and away colors
-    for j = 1:16
-        if strcmp(SERIES(i).HomeTeam , TEAMS(j).Name)
-            homeColor = TEAMS(j).Color;
-        end
-        if strcmp(SERIES(i).AwayTeam , TEAMS(j).Name)
-            awayColor = TEAMS(j).Color;
-        end        
-    end
-    % Make Table
     fprintf(fileID,'<table>\n');
     fprintf(fileID,'  <tr>\n');
     fprintf(fileID,'    <th> </th>\n');
@@ -263,7 +233,7 @@ for i = 13:14
     fprintf(fileID,'  </tr>\n');
     fprintf(fileID,'  <tr>\n');
     if strcmp(SERIES(i).HomeTeam , SERIES(i).Winner)
-        fprintf(fileID,['    <td style="background-color: ' homeColor '">' SERIES(i).HomeTeam '</td>\n']);
+        fprintf(fileID,['    <td style="background-color: green">' SERIES(i).HomeTeam '</td>\n']);
     else
         fprintf(fileID,['    <td>' SERIES(i).HomeTeam '</td>\n']);
     end
@@ -272,7 +242,7 @@ for i = 13:14
             fprintf(fileID,'    <td> </td>\n');
         else
             if SCORES(1,j,i) > SCORES(2,j,i)
-                fprintf(fileID,['    <td style="background-color: ' homeColor '">' num2str(SCORES(1,j,i)) '</td>\n']);
+                fprintf(fileID,['    <td style="background-color: green">' num2str(SCORES(1,j,i)) '</td>\n']);
             else
                 fprintf(fileID,['    <td>' num2str(SCORES(1,j,i)) '</td>\n']);
             end
@@ -282,7 +252,7 @@ for i = 13:14
     fprintf(fileID,'  </tr>\n');
     fprintf(fileID,'  <tr>\n');
     if strcmp(SERIES(i).AwayTeam , SERIES(i).Winner)
-        fprintf(fileID,['    <td style="background-color: ' awayColor '">' SERIES(i).AwayTeam '</td>\n']);
+        fprintf(fileID,['    <td style="background-color: green">' SERIES(i).AwayTeam '</td>\n']);
     else
         fprintf(fileID,['    <td>' SERIES(i).AwayTeam '</td>\n']);
     end
@@ -291,7 +261,7 @@ for i = 13:14
             fprintf(fileID,'    <td> </td>\n');
         else
             if SCORES(2,j,i) > SCORES(1,j,i)
-                fprintf(fileID,['    <td style="background-color: ' awayColor '">' num2str(SCORES(2,j,i)) '</td>\n']);
+                fprintf(fileID,['    <td style="background-color: green">' num2str(SCORES(2,j,i)) '</td>\n']);
             else
                 fprintf(fileID,['    <td>' num2str(SCORES(2,j,i)) '</td>\n']);
             end
