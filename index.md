@@ -360,23 +360,23 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td style="background-color: #6B253D">Avalanche</td>
-    <td style="background-color: #6B253D">3</td>
+    <td style="background-color: #6B253D;color: #ffffff">Avalanche</td>
+    <td style="background-color: #6B253D;color: #ffffff">3</td>
     <td>1</td>
-    <td style="background-color: #6B253D">5</td>
-    <td style="background-color: #6B253D">6</td>
+    <td style="background-color: #6B253D;color: #ffffff">5</td>
+    <td style="background-color: #6B253D;color: #ffffff">6</td>
     <td>4</td>
-    <td style="background-color: #6B253D">3</td>
+    <td style="background-color: #6B253D;color: #ffffff">3</td>
     <td> </td>
     <td>4</td>
   </tr>
   <tr>
     <td>Blues</td>
     <td>2</td>
-    <td style="background-color: #103089">4</td>
+    <td style="background-color: #103089;color: #ffffff">4</td>
     <td>2</td>
     <td>3</td>
-    <td style="background-color: #103089">5</td>
+    <td style="background-color: #103089;color: #ffffff">5</td>
     <td>2</td>
     <td> </td>
     <td>2</td>
@@ -398,7 +398,7 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Flames</td>
-    <td style="background-color: #C50920">9</td>
+    <td style="background-color: #C50920;color: #000000">9</td>
     <td>3</td>
     <td>1</td>
     <td>3</td>
@@ -408,12 +408,12 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td>1</td>
   </tr>
   <tr>
-    <td style="background-color: #F24A00">Oilers</td>
+    <td style="background-color: #F24A00;color: #000000">Oilers</td>
     <td>6</td>
-    <td style="background-color: #F24A00">5</td>
-    <td style="background-color: #F24A00">4</td>
-    <td style="background-color: #F24A00">5</td>
-    <td style="background-color: #F24A00">5</td>
+    <td style="background-color: #F24A00;color: #000000">5</td>
+    <td style="background-color: #F24A00;color: #000000">4</td>
+    <td style="background-color: #F24A00;color: #000000">5</td>
+    <td style="background-color: #F24A00;color: #000000">5</td>
     <td> </td>
     <td> </td>
     <td>4</td>
@@ -445,11 +445,11 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td>0</td>
   </tr>
   <tr>
-    <td style="background-color: #0B296A">Lightning</td>
-    <td style="background-color: #0B296A">4</td>
-    <td style="background-color: #0B296A">2</td>
-    <td style="background-color: #0B296A">5</td>
-    <td style="background-color: #0B296A">2</td>
+    <td style="background-color: #0B296A;color: #ffffff">Lightning</td>
+    <td style="background-color: #0B296A;color: #ffffff">4</td>
+    <td style="background-color: #0B296A;color: #ffffff">2</td>
+    <td style="background-color: #0B296A;color: #ffffff">5</td>
+    <td style="background-color: #0B296A;color: #ffffff">2</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -472,24 +472,24 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Hurricanes</td>
-    <td style="background-color: #D9001E">2</td>
-    <td style="background-color: #D9001E">2</td>
+    <td style="background-color: #D9001E;color: #000000">2</td>
+    <td style="background-color: #D9001E;color: #000000">2</td>
     <td>1</td>
     <td>1</td>
-    <td style="background-color: #D9001E">3</td>
+    <td style="background-color: #D9001E;color: #000000">3</td>
     <td>2</td>
     <td>2</td>
     <td>3</td>
   </tr>
   <tr>
-    <td style="background-color: #1434A3">Rangers</td>
+    <td style="background-color: #1434A3;color: #ffffff">Rangers</td>
     <td>1</td>
     <td>0</td>
-    <td style="background-color: #1434A3">3</td>
-    <td style="background-color: #1434A3">4</td>
+    <td style="background-color: #1434A3;color: #ffffff">3</td>
+    <td style="background-color: #1434A3;color: #ffffff">4</td>
     <td>1</td>
-    <td style="background-color: #1434A3">5</td>
-    <td style="background-color: #1434A3">6</td>
+    <td style="background-color: #1434A3;color: #ffffff">5</td>
+    <td style="background-color: #1434A3;color: #ffffff">6</td>
     <td>4</td>
   </tr>
 </table>
@@ -510,11 +510,11 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td style="background-color: #6B253D">Avalanche</td>
-    <td style="background-color: #6B253D">8</td>
-    <td style="background-color: #6B253D">4</td>
-    <td style="background-color: #6B253D">4</td>
-    <td style="background-color: #6B253D">6</td>
+    <td style="background-color: #6B253D;color: #ffffff">Avalanche</td>
+    <td style="background-color: #6B253D;color: #ffffff">8</td>
+    <td style="background-color: #6B253D;color: #ffffff">4</td>
+    <td style="background-color: #6B253D;color: #ffffff">4</td>
+    <td style="background-color: #6B253D;color: #ffffff">6</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -548,8 +548,8 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Rangers</td>
-    <td style="background-color: #1434A3">6</td>
-    <td style="background-color: #1434A3">3</td>
+    <td style="background-color: #1434A3;color: #ffffff">6</td>
+    <td style="background-color: #1434A3;color: #ffffff">3</td>
     <td>2</td>
     <td>1</td>
     <td>1</td>
@@ -558,13 +558,13 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td>2</td>
   </tr>
   <tr>
-    <td style="background-color: #0B296A">Lightning</td>
+    <td style="background-color: #0B296A;color: #ffffff">Lightning</td>
     <td>2</td>
     <td>2</td>
-    <td style="background-color: #0B296A">3</td>
-    <td style="background-color: #0B296A">4</td>
-    <td style="background-color: #0B296A">3</td>
-    <td style="background-color: #0B296A">2</td>
+    <td style="background-color: #0B296A;color: #ffffff">3</td>
+    <td style="background-color: #0B296A;color: #ffffff">4</td>
+    <td style="background-color: #0B296A;color: #ffffff">3</td>
+    <td style="background-color: #0B296A;color: #ffffff">2</td>
     <td> </td>
     <td>4</td>
   </tr>
