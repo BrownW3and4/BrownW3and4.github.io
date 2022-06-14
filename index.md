@@ -62,11 +62,11 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td style="background-color: #6B253D">Avalanche</td>
-    <td style="background-color: #6B253D">7</td>
-    <td style="background-color: #6B253D">2</td>
-    <td style="background-color: #6B253D">7</td>
-    <td style="background-color: #6B253D">5</td>
+    <td style="background-color: #6B253D;color: #ffffff">Avalanche</td>
+    <td style="background-color: #6B253D;color: #ffffff">7</td>
+    <td style="background-color: #6B253D;color: #ffffff">2</td>
+    <td style="background-color: #6B253D;color: #ffffff">7</td>
+    <td style="background-color: #6B253D;color: #ffffff">5</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -101,8 +101,8 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   <tr>
     <td>Wild</td>
     <td>0</td>
-    <td style="background-color: #A81B20">6</td>
-    <td style="background-color: #A81B20">5</td>
+    <td style="background-color: #A81B20;color: #000000">6</td>
+    <td style="background-color: #A81B20;color: #000000">5</td>
     <td>2</td>
     <td>2</td>
     <td>1</td>
@@ -110,13 +110,13 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <td>2</td>
   </tr>
   <tr>
-    <td style="background-color: #103089">Blues</td>
-    <td style="background-color: #103089">4</td>
+    <td style="background-color: #103089;color: #ffffff">Blues</td>
+    <td style="background-color: #103089;color: #ffffff">4</td>
     <td>2</td>
     <td>1</td>
-    <td style="background-color: #103089">5</td>
-    <td style="background-color: #103089">5</td>
-    <td style="background-color: #103089">5</td>
+    <td style="background-color: #103089;color: #ffffff">5</td>
+    <td style="background-color: #103089;color: #ffffff">5</td>
+    <td style="background-color: #103089;color: #ffffff">5</td>
     <td> </td>
     <td>4</td>
   </tr>
@@ -136,24 +136,24 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td style="background-color: #C50920">Flames</td>
-    <td style="background-color: #C50920">1</td>
+    <td style="background-color: #C50920;color: #000000">Flames</td>
+    <td style="background-color: #C50920;color: #000000">1</td>
     <td>0</td>
     <td>2</td>
-    <td style="background-color: #C50920">4</td>
-    <td style="background-color: #C50920">3</td>
+    <td style="background-color: #C50920;color: #000000">4</td>
+    <td style="background-color: #C50920;color: #000000">3</td>
     <td>2</td>
-    <td style="background-color: #C50920">3</td>
+    <td style="background-color: #C50920;color: #000000">3</td>
     <td>4</td>
   </tr>
   <tr>
     <td>Stars</td>
     <td>0</td>
-    <td style="background-color: #3E8758">2</td>
-    <td style="background-color: #3E8758">4</td>
+    <td style="background-color: #3E8758;color: #000000">2</td>
+    <td style="background-color: #3E8758;color: #000000">4</td>
     <td>1</td>
     <td>1</td>
-    <td style="background-color: #3E8758">4</td>
+    <td style="background-color: #3E8758;color: #000000">4</td>
     <td>2</td>
     <td>3</td>
   </tr>
@@ -173,23 +173,23 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td style="background-color: #F24A00">Oilers</td>
+    <td style="background-color: #F24A00;color: #000000">Oilers</td>
     <td>3</td>
-    <td style="background-color: #F24A00">6</td>
-    <td style="background-color: #F24A00">8</td>
+    <td style="background-color: #F24A00;color: #000000">6</td>
+    <td style="background-color: #F24A00;color: #000000">8</td>
     <td>0</td>
     <td>4</td>
-    <td style="background-color: #F24A00">4</td>
-    <td style="background-color: #F24A00">2</td>
+    <td style="background-color: #F24A00;color: #000000">4</td>
+    <td style="background-color: #F24A00;color: #000000">2</td>
     <td>4</td>
   </tr>
   <tr>
     <td>Kings</td>
-    <td style="background-color: #9FA6A9">4</td>
+    <td style="background-color: #9FA6A9;color: #000000">4</td>
     <td>0</td>
     <td>2</td>
-    <td style="background-color: #9FA6A9">4</td>
-    <td style="background-color: #9FA6A9">5</td>
+    <td style="background-color: #9FA6A9;color: #000000">4</td>
+    <td style="background-color: #9FA6A9;color: #000000">5</td>
     <td>2</td>
     <td>0</td>
     <td>3</td>
@@ -210,21 +210,21 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td style="background-color: #E00024">Panthers</td>
+    <td style="background-color: #E00024;color: #000000">Panthers</td>
     <td>2</td>
-    <td style="background-color: #E00024">5</td>
+    <td style="background-color: #E00024;color: #000000">5</td>
     <td>1</td>
-    <td style="background-color: #E00024">3</td>
-    <td style="background-color: #E00024">5</td>
-    <td style="background-color: #E00024">4</td>
+    <td style="background-color: #E00024;color: #000000">3</td>
+    <td style="background-color: #E00024;color: #000000">5</td>
+    <td style="background-color: #E00024;color: #000000">4</td>
     <td> </td>
     <td>4</td>
   </tr>
   <tr>
     <td>Capitals</td>
-    <td style="background-color: #091E42">4</td>
+    <td style="background-color: #091E42;color: #ffffff">4</td>
     <td>1</td>
-    <td style="background-color: #091E42">6</td>
+    <td style="background-color: #091E42;color: #ffffff">6</td>
     <td>2</td>
     <td>3</td>
     <td>3</td>
@@ -248,24 +248,24 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   </tr>
   <tr>
     <td>Maple Leafs</td>
-    <td style="background-color: #08215D">5</td>
+    <td style="background-color: #08215D;color: #ffffff">5</td>
     <td>3</td>
-    <td style="background-color: #08215D">5</td>
+    <td style="background-color: #08215D;color: #ffffff">5</td>
     <td>3</td>
-    <td style="background-color: #08215D">4</td>
+    <td style="background-color: #08215D;color: #ffffff">4</td>
     <td>3</td>
     <td>1</td>
     <td>3</td>
   </tr>
   <tr>
-    <td style="background-color: #0B296A">Lightning</td>
+    <td style="background-color: #0B296A;color: #ffffff">Lightning</td>
     <td>0</td>
-    <td style="background-color: #0B296A">5</td>
+    <td style="background-color: #0B296A;color: #ffffff">5</td>
     <td>2</td>
-    <td style="background-color: #0B296A">7</td>
+    <td style="background-color: #0B296A;color: #ffffff">7</td>
     <td>3</td>
-    <td style="background-color: #0B296A">4</td>
-    <td style="background-color: #0B296A">2</td>
+    <td style="background-color: #0B296A;color: #ffffff">4</td>
+    <td style="background-color: #0B296A;color: #ffffff">2</td>
     <td>4</td>
   </tr>
 </table>
@@ -284,24 +284,24 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td style="background-color: #D9001E">Hurricanes</td>
-    <td style="background-color: #D9001E">5</td>
-    <td style="background-color: #D9001E">5</td>
+    <td style="background-color: #D9001E;color: #000000">Hurricanes</td>
+    <td style="background-color: #D9001E;color: #000000">5</td>
+    <td style="background-color: #D9001E;color: #000000">5</td>
     <td>2</td>
     <td>2</td>
-    <td style="background-color: #D9001E">5</td>
+    <td style="background-color: #D9001E;color: #000000">5</td>
     <td>2</td>
-    <td style="background-color: #D9001E">3</td>
+    <td style="background-color: #D9001E;color: #000000">3</td>
     <td>4</td>
   </tr>
   <tr>
     <td>Bruins</td>
     <td>1</td>
     <td>2</td>
-    <td style="background-color: #F6B400">4</td>
-    <td style="background-color: #F6B400">5</td>
+    <td style="background-color: #F6B400;color: #000000">4</td>
+    <td style="background-color: #F6B400;color: #000000">5</td>
     <td>1</td>
-    <td style="background-color: #F6B400">5</td>
+    <td style="background-color: #F6B400;color: #000000">5</td>
     <td>2</td>
     <td>3</td>
   </tr>
@@ -321,22 +321,22 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
     <th>Total Wins</th>
   </tr>
   <tr>
-    <td style="background-color: #1434A3">Rangers</td>
+    <td style="background-color: #1434A3;color: #ffffff">Rangers</td>
     <td>3</td>
-    <td style="background-color: #1434A3">5</td>
+    <td style="background-color: #1434A3;color: #ffffff">5</td>
     <td>4</td>
     <td>2</td>
-    <td style="background-color: #1434A3">5</td>
-    <td style="background-color: #1434A3">5</td>
-    <td style="background-color: #1434A3">4</td>
+    <td style="background-color: #1434A3;color: #ffffff">5</td>
+    <td style="background-color: #1434A3;color: #ffffff">5</td>
+    <td style="background-color: #1434A3;color: #ffffff">4</td>
     <td>4</td>
   </tr>
   <tr>
     <td>Penguins</td>
-    <td style="background-color: #F6B400">4</td>
+    <td style="background-color: #F6B400;color: #000000">4</td>
     <td>2</td>
-    <td style="background-color: #F6B400">7</td>
-    <td style="background-color: #F6B400">7</td>
+    <td style="background-color: #F6B400;color: #000000">7</td>
+    <td style="background-color: #F6B400;color: #000000">7</td>
     <td>3</td>
     <td>3</td>
     <td>3</td>
