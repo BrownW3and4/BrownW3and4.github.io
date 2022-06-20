@@ -73,7 +73,7 @@ SCORES(:,:,14) = ...
 
 %% Series 15 /
 SCORES(:,:,15) = ...
-   [4 NaN NaN NaN NaN NaN NaN   % Avs
-    3 NaN NaN NaN NaN NaN NaN]; % Lightning
+   [4 7 NaN NaN NaN NaN NaN   % Avs
+    3 0 NaN NaN NaN NaN NaN]; % Lightning
 
 end

@@ -25,18 +25,18 @@ Thank you everyone who submitted a bracket. I enjoyed making this page and I hop
   <tr>
     <td>Avalanche</td>
     <td style="background-color: #6B253D;color: #ffffff">4</td>
+    <td style="background-color: #6B253D;color: #ffffff">7</td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Lightning</td>
     <td>3</td>
-    <td> </td>
+    <td>0</td>
     <td> </td>
     <td> </td>
     <td> </td>
