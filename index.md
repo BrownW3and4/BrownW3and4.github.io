@@ -1,5 +1,5 @@
 # Office NHL Bracket Challenge
-![StanleyCup](Results/StanleyCup.png)
+![StanleyCup](./Results/StanleyCup.png)
 
 Thank you everyone who submitted a bracket. I enjoyed making this page and I hope you enjoy it as well.
 
